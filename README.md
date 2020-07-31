@@ -13,3 +13,8 @@
 * The one who has to pick the final stick will be the loser.
 
 * First turn will be randomly decided with toss.
+
+
+**Compilation Instruction :** AIvshuman.cpp 
+
+**Compilation Instruction :** AIvsAI.cpp
