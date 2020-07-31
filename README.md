@@ -1,6 +1,6 @@
 # Assignment 4: Design a Min/Max game tree with alpha-beta pruning for the game.
 
-**Description:
+**Description:**
 
  It is a 2-player game.
 
