@@ -1,0 +1,55 @@
+FOR STICKS = 14
+enter the initial number of sticks in the box : 14 
+AI 2 chance first
+AI 2 chosed:1
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+
+____________________________________________________________________________________________________________________
+
+FOR STICKS = 21
+
+enter the initial number of sticks in the box : 21
+AI 2 chance first
+AI 2 chosed:1
+AI 1 chosed:3
+AI 2 chosed:1
+AI 1 chosed:3
+AI 2 chosed:1
+AI 1 chosed:3
+AI 2 chosed:1
+AI 1 chosed:3
+AI 2 chosed:1
+AI 1 chosed:3
+
+AI 1 won
+
+____________________________________________________________________________________________________________________
+
+FOR STICKS = 53
+
+enter the initial number of sticks in the box : 53
+AI 1 chance firstAI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+AI 1 chosed:1
+AI 2 chosed:3
+
+AI 2 won
+
+
